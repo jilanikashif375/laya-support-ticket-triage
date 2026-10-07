@@ -1,0 +1,3 @@
+laya>=0.3.28,<0.4
+streamlit>=1.36,<2
+torchvision
